@@ -1,6 +1,8 @@
-# spellchecker
+<img align="left" style="padding:0 0 1em 1em" src="spell.jpg" alt="Spell Checker Logo" />
+
+# Spell Checker
 A light weighted spell checking program based on PHP. With the help of Pspell
-<img align="center" style="padding:0 0 1em 1em" src="spell.jpg" alt="Spell Checker Logo" />
+
 
 
 # Contribute
