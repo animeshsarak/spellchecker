@@ -6,13 +6,15 @@ A light weighted spell checking program based on PHP. With the help of Pspell
 # Getting Started
 For CentOs
 
-*yum install php-pspell
+*yum install php-pspell*
 
 For english dictionary run this command.
-*yum install aspell-en
+
+*yum install aspell-en*
 
 Restart Apache
-*service httpd restart
+
+*service httpd restart*
 
 
 # Contribute
